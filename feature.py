@@ -5,3 +5,4 @@ im.method()
 print("Cool new feature!?")
 
 print("Changes!!!!")
+print('Все хорошо, не буду ничо менять')
